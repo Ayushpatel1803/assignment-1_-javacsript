@@ -1,0 +1,17 @@
+
+/* style for name*/
+
+.name{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/*style for image*/
+
+.img{
+    width: 700px;
+    display: block;
+    margin: auto;
+    margin-left: auto;
+    margin-top: 45px;
+}
